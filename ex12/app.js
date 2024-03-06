@@ -1,0 +1,1 @@
+console.log('Aprendendo Algoritmo\ne Fazendo muito Exercício\nPrimeiro fazendo exercício em "JavaScript"')
